@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Juan David Delgado Guzmán  
 
 ## 🚀 About Me  
-I'm a **Senior Backend Developer** passionate about building secure, scalable and maintainable systems.  
+I'm a **Software Engineer / Full-Stack Developer** passionate about building secure, scalable and maintainable systems.  
 I specialize in **backend services, APIs, databases, and event-driven architectures** on AWS, and I'm also proficient in **modern frontend frameworks** such as Angular and NextJS to deliver complete full-stack solutions.  
 Currently, I'm pursuing a **Master’s degree in DevOps & AI** to deepen my expertise in **CI/CD, containerization, and infrastructure automation**.  
 
