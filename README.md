@@ -4,6 +4,10 @@
 
 # 👋 Hi, I'm Juan David Delgado Guzmán  
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
 ## 🚀 About Me  
 I'm a **Software Engineer / Full-Stack Developer** passionate about building secure, scalable and maintainable systems.  
 I specialize in **backend services, APIs, databases, and event-driven architectures** on AWS, and I'm also proficient in **modern frontend frameworks** such as Angular and NextJS to deliver complete full-stack solutions.  
