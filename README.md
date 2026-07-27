@@ -4,9 +4,17 @@
 
 # 👋 Hi, I'm Juan David Delgado Guzmán  
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+###
+
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
 
 ## 🚀 About Me  
 I'm a **Software Engineer / Full-Stack Developer** passionate about building secure, scalable and maintainable systems.  
