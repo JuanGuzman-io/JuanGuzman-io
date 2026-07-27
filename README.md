@@ -11,7 +11,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="[[https://streak-stats.demolab.com?user=JuanGuzman-io&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3](https://github-stats-extended.vercel.app/api?username=JuanGuzman-io](https://github-stats-extended.vercel.app/api?username=octocat&theme=radical)" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanGuzman-io&theme=radical" height="220" alt="streak graph"  />
 </div>
 
 ###
