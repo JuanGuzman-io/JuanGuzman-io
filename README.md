@@ -4,16 +4,6 @@
 
 # 👋 Hi, I'm Juan David Delgado Guzmán  
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanGuzman-io&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 ## 🚀 About Me  
 I'm a **Software Engineer / Full-Stack Developer** passionate about building secure, scalable and maintainable systems.  
 I specialize in **backend services, APIs, databases, and event-driven architectures** on AWS, and I'm also proficient in **modern frontend frameworks** such as Angular and NextJS to deliver complete full-stack solutions.  
