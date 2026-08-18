@@ -1,33 +1,170 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-# 👋 Hi, I'm Juan David Delgado Guzmán  
+# 👋 Hi, I'm Juan David Delgado Guzmán
 
+**Senior Software Engineer · Technical Lead · AI & Product Builder**
 
-## 🚀 About Me  
-I'm a **Software Engineer / Full-Stack Developer** passionate about building secure, scalable and maintainable systems.  
-I specialize in **backend services, APIs, databases, and event-driven architectures** on AWS, and I'm also proficient in **modern frontend frameworks** such as Angular and NextJS to deliver complete full-stack solutions.  
-Currently, I'm pursuing a **Master’s degree in DevOps & AI** to deepen my expertise in **CI/CD, containerization, and infrastructure automation**.  
+I build products end-to-end — from architecture and backend systems to cloud infrastructure, frontend experiences, and AI-powered capabilities.
 
-## 🛠️ Tech Stack  
-- **Backend:** Node.js (NestJS, ExpressJS), FastAPI, Flask  
-- **Frontend:** Angular, NextJS  
-- **Databases:** MySQL, PostgreSQL (query optimization, stored procedures)  
-- **Cloud & DevOps:** AWS (EventBridge, Lambda, OpenSearch, AppSync), RabbitMQ, CI/CD pipelines  
-- **AI & Emerging Tech:** LLM integrations (Amazon Bedrock, OpenAI), Model Context Protocol (MCP)  
-- **Other Tools:** Git, Docker, Jira, Agile/Scrum  
+My work focuses on **distributed systems, cloud-native platforms, product engineering, and applied AI**, with a strong emphasis on building secure, scalable, and maintainable software.
 
-## 🌱 Current Focus  
-- Expanding my knowledge in **DevOps practices** (containerization, IaC, CI/CD)  
-- Integrating **AI/LLM technologies** into real-world platforms  
-- Leading and mentoring teams to deliver high-quality, reliable software  
+---
 
-## 📂 Featured Projects  
-- **PRMS (Global Reporting Platform):** Technical lead of a global-scale system enabling research centers worldwide to report results efficiently. Implemented microservices (PDF report generation, file management), event-driven architecture on AWS, and automated database backups.  
-- **Property Management Platform (Stealth Startup):** Senior backend developer designing scalable APIs for users, reservations, and payments with TypeScript and NodeJS, integrated MercadoPago and deployed on Cloudflare.
+## 🚀 About Me
 
-## 📫 How to reach me  
-- GitHub: [github.com/JuanGuzman-io](https://github.com/JuanGuzman-io)  
-- LinkedIn: [linkedin.com/in/juan-david-delgado-guzman](https://www.linkedin.com/in/juan-david-delgado-guzman/)  
-- Email: juandelgadog98@gmail.com  
+I'm a **Senior Software Engineer and Technical Lead** with 4+ years of experience building SaaS platforms, distributed systems, and AI-powered products.
+
+I work across the full product lifecycle:
+
+- Product and technical architecture
+- Backend APIs and distributed systems
+- Frontend applications
+- Cloud infrastructure and DevOps
+- AI/LLM integrations and agentic workflows
+- Production reliability, security, and performance
+
+I also use AI as part of the engineering process through **Spec-Driven Development, automated testing, AI-assisted code review, and specialized validation agents** for security, performance, and code quality.
+
+---
+
+## 🛠️ Tech Stack
+
+### Core
+`TypeScript` · `JavaScript` · `Python` · `SQL`
+
+### Full-Stack & Systems
+`Node.js` · `NestJS` · `Hono` · `Next.js` · `React` · `Microservices` · `Distributed Systems`
+
+### Cloud & Data
+`AWS` · `Cloudflare` · `PostgreSQL` · `MongoDB` · `Redis` · `Docker` · `Kubernetes` · `Terraform`
+
+### Architecture & Reliability
+`Clean Architecture` · `Event-Driven Systems` · `RabbitMQ` · `SRE` · `Observability` · `CI/CD`
+
+### AI Engineering
+`OpenAI` · `Claude` · `Amazon Bedrock` · `MCP` · `Tool Calling` · `AI Agents` · `Multimodal AI`
+
+### AI-Assisted Engineering
+`Spec-Driven Development` · `Agentic Engineering` · `Automated Testing` · `AI Code Review` · `Security Validation` · `Performance Validation`
+
+### AI Development Tools
+`Codex` · `Claude Code` · `OpenCode` · `Cursor`
+
+---
+
+## 🤖 How I Build With AI
+
+I don't use AI only as a coding assistant.
+
+I integrate AI into both **products** and the **software development lifecycle**:
+
+```text
+Product Requirements
+        ↓
+Specifications
+        ↓
+AI-Assisted Implementation
+        ↓
+Automated Tests
+        ↓
+Validation Agents
+ ├── Security
+ ├── Performance
+ └── Code Quality
+        ↓
+Human Review
+        ↓
+CI/CD → Production
+```
+
+This allows me to move fast while keeping architecture, quality, security, and maintainability as first-class concerns.
+
+---
+
+## 🔨 What I'm Building
+
+### ♻️ Ciclonecta — Co-Founder / CTO
+
+B2B circular-economy marketplace connecting companies around reusable materials and industrial surplus.
+
+Working across:
+
+- Product and technical strategy
+- Marketplace architecture and workflows
+- AI-powered conversational assistance
+- Image-validation and multimodal AI workflows
+- Customer discovery and product experiments
+- AI-assisted engineering with SDD and validation agents
+
+---
+
+### 🏟️ Verzus — Co-Founder / CTO
+
+Sports booking platform focused on simplifying reservations through automation.
+
+Building:
+
+- Full-stack product architecture
+- Node.js / Hono APIs
+- PostgreSQL / Supabase
+- Cloudflare Workers
+- Payments and transactional workflows
+- WhatsApp-based verification
+- Conversational and voice AI agents for reservation automation
+
+---
+
+## 🌎 Professional Experience
+
+### Bioversity International & CIAT
+**Senior Software Engineer / Technical Lead**
+
+Technical Lead and hands-on engineer for a global research reporting platform used by international research centers.
+
+Highlights:
+
+- Distributed and event-driven systems using Node.js, NestJS, RabbitMQ, and AWS
+- 99.9% production uptime
+- Backend APIs and integration architecture
+- AI/LLM integrations using OpenAI, Amazon Bedrock, and MCP
+- Technical leadership across architecture, development, and delivery
+
+---
+
+## 🎓 Education
+
+**MSc in DevOps + AI for Software Development and DevOps**  
+UNIR
+
+Focus areas:
+
+- Cloud-native architectures
+- Kubernetes
+- Infrastructure as Code
+- CI/CD
+- DevSecOps
+- AI-assisted software development
+
+Thesis: **Secure microservices automation on Kubernetes**
+
+---
+
+## 🌱 Current Focus
+
+- Building AI-native products
+- Agentic software engineering
+- AI agents and tool-based systems
+- MCP-based integrations
+- Distributed systems and scalable architectures
+- Product development from 0 → 1
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 [juan-dev.com](https://www.juan-dev.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-david-delgado-guzman/)
+- 🐙 [GitHub](https://github.com/JuanGuzman-io)
+- ✉️ juandelgadog98@gmail.com
