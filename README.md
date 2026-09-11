@@ -85,7 +85,7 @@ This allows me to move fast while keeping architecture, quality, security, and m
 
 ## 🔨 What I'm Building
 
-### ♻️ Ciclonecta — Co-Founder / CTO
+### ♻️ Ciclonecta — Full-Stack Software Engineer - AI Builder (Consulting)
 
 B2B circular-economy marketplace connecting companies around reusable materials and industrial surplus.
 
@@ -100,7 +100,7 @@ Working across:
 
 ---
 
-### 🏟️ Verzus — Co-Founder / CTO
+### 🏟️ Verzus — Full-Stack Software Engineer - AI Builder (Consulting)
 
 Sports booking platform focused on simplifying reservations through automation.
 
